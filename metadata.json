@@ -1,0 +1,6 @@
+{
+  "name": "Local Tailor Connect",
+  "description": "Your perfect fit, just around the corner. A digital platform connecting customers with trusted local tailors for custom stitching, alterations, and digital measurement management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
